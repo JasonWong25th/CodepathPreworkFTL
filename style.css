@@ -1,0 +1,95 @@
+body{
+    background-image: url(https://cdn.glitch.global/e4b6651f-20d6-4bcd-8f11-54389d87067e/backgroundImage.jpg?v=1650682868841);
+    background-color: #bf193a;
+    color: #1c2021;
+    font-family: "Georgia", "Times New Roman", serif; 
+    margin: 2em;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+h1{
+  font-family: "Georgia", "Times New Roman", serif; 
+}
+button{
+  padding: 10px;
+  border-radius: 10px;
+}
+h2{
+    display: inline;
+    color: red;
+
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+#button1 {
+    background: lightgreen;
+    background-image: url(https://cdn.glitch.global/e4b6651f-20d6-4bcd-8f11-54389d87067e/cow_image.png?v=1650684693195);
+    background-size: 350px 350px;
+    background-position: center; 
+
+
+}
+#button2 {
+    background: lightblue;
+    background-image: url(https://cdn.glitch.global/e4b6651f-20d6-4bcd-8f11-54389d87067e/sheep.png?v=1650684816512);
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+#button3 {
+    background: pink;
+    background-image: url(  https://cdn.glitch.global/e4b6651f-20d6-4bcd-8f11-54389d87067e/chicken.png?v=1650684950240);
+    background-size: 250px 250px;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+#button4 {
+    background: lightyellow;
+    background-image: url(  https://cdn.glitch.global/e4b6651f-20d6-4bcd-8f11-54389d87067e/pig.png?v=1650685058338);
+    background-size: 170px 170px;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+#button5 {
+    background: #dca2f5;
+    background-image: url(  https://cdn.glitch.global/e4b6651f-20d6-4bcd-8f11-54389d87067e/duck.png?v=1650685413566);
+    background-size: 220px 220px;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+#button6 {
+    background: #f7cd79;
+    background-image: url(  https://cdn.glitch.global/e4b6651f-20d6-4bcd-8f11-54389d87067e/cat.png?v=1650685725676);
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+#button1:active, #button1.lit {
+    background:green;
+}
+#button2:active, #button2.lit  {
+    background:blue;
+}
+#button3:active, #button3.lit  {
+    background:red;
+}
+#button4:active, #button4.lit  {
+    background:yellow;
+}
+#button5:active, #button5.lit  {
+    background:purple;
+}
+#button6:active, #button6.lit  {
+    background:orange;
+}
+
+.hidden {
+  display: none;
+  
+}
