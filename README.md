@@ -69,7 +69,7 @@ I would also consider making a similar version of this game but have it be diffe
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://uci.zoom.us/rec/share/6A48lLPpQuaxto23sugPJqw5jsVVeIBgjdPl0H_dubDAR-o5CTXxEdjL367pIXKO.Hxd9C05UpGAIn2Nh?startTime=1648779533000)
+[My 5-minute Interview Recording](https://www.loom.com/share/a8413e76879744329cd0a9f97cbc7e52)
 
 
 ## License
